@@ -1,3 +1,4 @@
+// DAO to handle room availability and pricing
 package com.oceanview.dao;
 
 import com.oceanview.model.Room;
