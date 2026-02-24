@@ -1,3 +1,4 @@
+<%-- Implemented printable guest invoice UI --%>
 <%@ page import="com.oceanview.model.Reservation" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%
