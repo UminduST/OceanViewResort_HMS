@@ -1,3 +1,4 @@
+// Logic to trigger cleaning status on checkout
 package com.oceanview.servlet;
 
 import com.oceanview.dao.ReservationDAO;
