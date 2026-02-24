@@ -1,3 +1,4 @@
+// Database Connection Utility - Version 1.1
 package com.oceanview.util;
 
 import java.sql.Connection;
