@@ -1,3 +1,4 @@
+<%-- Booking: Added date-selection UI for guests --%>
 <%@ page import="com.oceanview.dao.RoomDAO" %>
 <%@ page import="com.oceanview.model.Room" %>
 <%@ page import="java.util.List" %>
