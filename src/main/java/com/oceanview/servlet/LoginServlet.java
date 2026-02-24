@@ -1,3 +1,4 @@
+// Updated login logic for role-based redirection
 package com.oceanview.servlet;
 
 import com.oceanview.util.DBConnection;
