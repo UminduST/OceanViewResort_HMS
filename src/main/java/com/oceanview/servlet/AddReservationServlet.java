@@ -1,3 +1,4 @@
+// Servlet to calculate stay duration and total cost
 package com.oceanview.servlet;
 
 import com.oceanview.dao.RoomDAO;
