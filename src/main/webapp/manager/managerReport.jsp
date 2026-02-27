@@ -1,3 +1,4 @@
+<%-- Created executive analytics dashboard --%>
 <%@ page import="com.oceanview.dao.ReportDAO" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%
