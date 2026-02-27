@@ -1,3 +1,4 @@
+<%-- Added user directory and account management --%>
 <%@ page import="com.oceanview.util.DBConnection" %>
 <%@ page import="java.sql.*" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
