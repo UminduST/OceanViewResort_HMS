@@ -1,3 +1,4 @@
+// SQL logic for revenue and occupancy reports
 package com.oceanview.dao;
 
 import com.oceanview.util.DBConnection;
