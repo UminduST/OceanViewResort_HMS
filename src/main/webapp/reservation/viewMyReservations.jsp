@@ -1,3 +1,4 @@
+<%-- Finalized reservation history view --%>
 <%@ page import="com.oceanview.dao.ReservationDAO" %>
 <%@ page import="com.oceanview.model.Reservation" %>
 <%@ page import="java.util.List" %>
